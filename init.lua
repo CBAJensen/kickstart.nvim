@@ -26,8 +26,6 @@ require('lazy').setup({
   -- NOTE: First, some plugins that don't require any configuration
 
   --PERSONAL Plugins
-  'ThePrimeagen/harpoon',
-
   -- Git related plugins
   'tpope/vim-rhubarb',
 
