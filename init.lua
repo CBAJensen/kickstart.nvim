@@ -179,7 +179,6 @@ vim.o.relativenumber = true
 -- Set 8 line safe zone for scrolling
 vim.opt.scrolloff = 8
 
-
 -- Set highlight on search
 vim.o.hlsearch = false
 
