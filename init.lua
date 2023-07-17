@@ -26,6 +26,7 @@ require('lazy').setup({
   -- NOTE: First, some plugins that don't require any configuration
 
   --PERSONAL Plugins
+  'christoomey/vim-tmux-navigator',
   -- Git related plugins
   'tpope/vim-rhubarb',
 
